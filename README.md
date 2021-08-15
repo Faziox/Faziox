@@ -1,5 +1,6 @@
 const ruler90 = {
-    name: "Dawid",
+
+	name: "Dawid",
     age: "24",
     country: "Poland",
     quickInfo: "Self-taught front-end developer",
@@ -18,6 +19,7 @@ const ruler90 = {
 };
 
 const futurePlans = {
+
     learn: [
     "Unit testing in JS and React",
     "React Native",
