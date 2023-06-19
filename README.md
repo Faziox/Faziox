@@ -1,12 +1,12 @@
-const ruler90 = {
+const Faziox = {
 
-	name: "Dawid",
-    age: "24",
+    name: "Dawid",
+    age: "26",
     country: "Poland",
     quickInfo: "Self-taught front-end developer",
-    code: ["HTML", "CSS", "Javascript", "React"],
+    code: ["HTML", "CSS", "Javascript", "React", "React-Natice", ],
     stack: {
-        css: ["SASS/SCSS", "BEM", "Animations"],
+        css: ["SASS/SCSS", "BEM"],
         javaScript: ["ES5/6", "React"],
         design: ["RWD", "SEO", "UX"]
     },
